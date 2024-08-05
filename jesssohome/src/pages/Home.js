@@ -1,7 +1,25 @@
 function Home() {
   return (
-    <div>Home Page</div>
-  );
+    <div>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+      <p>TESTING</p>
+    </div>
+
+      );
 }
 
-export default Home;
+      export default Home;
