@@ -2,7 +2,7 @@ import React from "react";
 import Navigation from "./elements/Navigation";
 
 const App = () => {
-    return (
+  return (
         <div>
           <Navigation/>
           <hr/>
